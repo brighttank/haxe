@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.brighttank.haxe.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.brighttank.haxe.MyBundle
 
 class MyApplicationService {
 
